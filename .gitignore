@@ -1,0 +1,42 @@
+
+# Visual Studio user-specific files
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Intermediate build artifacts
+**/obj/
+**/ipch/
+*.obj
+*.pch
+*.idb
+*.ilk
+*.tlog/
+*.lastbuildstate
+*.recipe
+
+# Debug symbols and generated binaries
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# Adapted build output
+/build_out/
+
+# Release archives generated locally
+/release/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Python virtual environments
+.venv/
+venv/
+
+# Temporary logs
+*.log
+*.tmp
